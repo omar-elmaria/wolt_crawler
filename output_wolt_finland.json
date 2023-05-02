@@ -1,0 +1,812 @@
+[
+{
+"restaurant_name": "McDonald's Helsinki Hakaniemi",
+"restaurant_subtitle": "I'm lovin' it.",
+"delivery_time": "15-25",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "King Kebab Kallio",
+"restaurant_subtitle": "Kebabin aatelia",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Picnic Kaisaniemi",
+"restaurant_subtitle": "Tuoretta ja herkullista ruokaa",
+"delivery_time": "15-25",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Ravintola Keko",
+"restaurant_subtitle": "Tasty pizza, kebab and falafel",
+"delivery_time": "15-25",
+"delivery_fee": "€1.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Subway Kluuvi",
+"restaurant_subtitle": "Parhaat hetket ovat edessä.",
+"delivery_time": "15-25",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Espresso Edge",
+"restaurant_subtitle": "Vegaanipainotteinen ja luonnonmukainen",
+"delivery_time": "15-25",
+"delivery_fee": "€1.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Ituitu - Green Farm & Deli",
+"restaurant_subtitle": "Kaupunkiviljelyä ja lähiruokaa.",
+"delivery_time": "15-25",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Robert's Coffee Vanha kauppahalli",
+"restaurant_subtitle": "Nautinnollisia kahvilaherkkuja",
+"delivery_time": "15-25",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Sivuraide",
+"restaurant_subtitle": "Herkulliset pizzat, kebabit ja falafelit!",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Joe & The Juice",
+"restaurant_subtitle": "Smoothie- ja mehubaari",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Sky Express",
+"restaurant_subtitle": "Maukasta pizzaa",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Romano",
+"restaurant_subtitle": "Maukkaita pizzoja",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Chilli Hakaniemi",
+"restaurant_subtitle": "Käsintehtyä döneriä",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Starbucks Kamppi",
+"restaurant_subtitle": "It’s not just coffee. It’s Starbucks.",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Jungle Juice Bar Keskuskatu",
+"restaurant_subtitle": "Piristävät mehut & smoothiet",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "No. 5 Coffee",
+"restaurant_subtitle": "Maukasta vietnamilaista",
+"delivery_time": "20-30",
+"delivery_fee": "€1.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Ravintola Day to Day",
+"restaurant_subtitle": "Maukkaat pizzat ja kebabit.",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Cafe Skatta",
+"restaurant_subtitle": "Herkullisia leivonnaisia, leipäruokatuotteita, lounasta ja kuumia juomia!",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Flamingo Juice Bar",
+"restaurant_subtitle": "Tasty and healthy food",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Spice Ice Kamppi",
+"restaurant_subtitle": "Parasta jäätelöä ja valtavasti lisukkeita.",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Taco Bell Baker's",
+"restaurant_subtitle": "Meksikolainen pikaruokaravintola",
+"delivery_time": "25-35",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Green Hippo Punavuori",
+"restaurant_subtitle": "Herkulliset ruokaelämykset",
+"delivery_time": "15-25",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Ravintola Sivukaide",
+"restaurant_subtitle": "Herkulliset pizzat ja kebabit",
+"delivery_time": "25-35",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Pizza Express Kruununhaka",
+"restaurant_subtitle": "Maukasta pizzaa, kebabia",
+"delivery_time": "15-25",
+"delivery_fee": "€1.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "ROUND Asematunneli",
+"restaurant_subtitle": "Vegan donut café in the heart of Helsinki",
+"delivery_time": "25-35",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Café Bar No 9 Vallila",
+"restaurant_subtitle": "Punavuori classics!",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Chill & Grill",
+"restaurant_subtitle": "Pizza- ja kebabravintola",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Meli Café & Bakery",
+"restaurant_subtitle": "Kahvila pienleipomo Kallion sydämessä",
+"delivery_time": "25-35",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Kalasataman Burger&Pizza",
+"restaurant_subtitle": "Aitoa grilliruoka laadukkailla raaka-aineilla",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Deli – Ravintola Teatteri",
+"restaurant_subtitle": "Suosittu salaattibaari Helsingin ytimessä",
+"delivery_time": "15-25",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Hermannin Pizzeria",
+"restaurant_subtitle": "Maukasta pizzaa!",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Hertsikan Pizzataxih",
+"restaurant_subtitle": "Maukasta pizzaa ja kebabia",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Robert's Coffee Citykäytävä",
+"restaurant_subtitle": "Nautinnollisia kahvilaherkkuja",
+"delivery_time": "25-35",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Pappa Peruna Jätkäsaari",
+"restaurant_subtitle": "Meillä on parhaat uuniperunat!",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Savalan Pizzeria",
+"restaurant_subtitle": "Maukasta pizzaa!",
+"delivery_time": "35-45",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Moshi Moshi",
+"restaurant_subtitle": "Maukasta sushia",
+"delivery_time": "15-25",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Victoria's Café & Bakery Jätkäsaari",
+"restaurant_subtitle": "Taste of Spain",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Better Kebab Kamppi",
+"restaurant_subtitle": "Parempaa kebabia läheltä",
+"delivery_time": "15-25",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Pizza Express Jätkäsaari",
+"restaurant_subtitle": "Delicious pizza and kebab",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Kalasataman Pizza&Burger",
+"restaurant_subtitle": "Aitoa italialaista pizzaa!",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Better Thai Food Kasarmitori",
+"restaurant_subtitle": "Parempaa thaimaalaista ruokaa läheltä",
+"delivery_time": "15-25",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Robert's Coffee Helsingin Rautatieasema",
+"restaurant_subtitle": "Nautinnollisia kahvilaherkkuja",
+"delivery_time": "25-35",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Vegan Bagel Bar Asematunneli",
+"restaurant_subtitle": "So good you wish you had one sooner. 🥑",
+"delivery_time": "25-35",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Fratello",
+"restaurant_subtitle": "Kylän intohimoisimmat baristat ja keittiömestarit",
+"delivery_time": "15-25",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Hermannin Piirakkaleipomo",
+"restaurant_subtitle": "Leipomotuotteita ja muita herkkuja suurella sydämellä valmistettuna Helsingistä.",
+"delivery_time": "15-25",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Cafe Scallion",
+"restaurant_subtitle": "Made in Freda",
+"delivery_time": "15-25",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Pupu Stockmann",
+"restaurant_subtitle": "so fresh. salads, wraps and bowls.",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Bär Bar Freda",
+"restaurant_subtitle": "Suomalaiseen superfoodiin keskittyvä smoothie- ja sandwich bar. Valikoimissa smoothiekulhoja, smoothieita, pariloituja sandwichejä, tuorepuuroa ja shotteja.",
+"delivery_time": "30-40",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Burger King Rautatieasema",
+"restaurant_subtitle": "Flame grilled burgers",
+"delivery_time": "30-40",
+"delivery_fee": "€0.00",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Sörkan Rinkula",
+"restaurant_subtitle": "Käsityönä tehtyjä bageleita",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Zuhat",
+"restaurant_subtitle": "Herkullista pizzaa",
+"delivery_time": "25-35",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Poke Amigos",
+"restaurant_subtitle": "The poke bowls you've been dreaming about",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Ekberg",
+"restaurant_subtitle": "Perinteitä jo vuodesta 1852",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Eat Poke Kamppi",
+"restaurant_subtitle": "Helsingin ensimmäinen kokonaan poke-kulhoille omistettu ravintola",
+"delivery_time": "25-35",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "KOKORO Sushi Vallila",
+"restaurant_subtitle": "IN SUSHI WE TRUST",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Cafe Del Mar",
+"restaurant_subtitle": "Maukasta, tuoretta ruokaa Kalliosta!",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Super Bowl / Hietalahden Kauppahalli",
+"restaurant_subtitle": "Herkullista kulhoruokaa",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Sturen Express Pizzeria",
+"restaurant_subtitle": "Herkullisia pizzoja ja kebabeja",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Espresso House Kamppi",
+"restaurant_subtitle": "Passionate about coffee!",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Lahaina Bowl Hietsu",
+"restaurant_subtitle": "Beautiful bowls with a salad or rice or both.",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Pho Nokis Kamppi",
+"restaurant_subtitle": "Vietnamese street food",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Arnolds Citycenter",
+"restaurant_subtitle": "Amerikkalaistyylinen kahvila",
+"delivery_time": "30-40",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Annan Pippuri",
+"restaurant_subtitle": "Maukkaita pizzoja, joissa käytetään laadukasta italialaista pizzajauhoa, aitoa italialaista tomaattikastiketta ja mozzarellaraastetta.",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Pizzeria Aromi",
+"restaurant_subtitle": "Herkulliset pizzat ja kebabit",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Bambu Sushi Kallio",
+"restaurant_subtitle": "We love SUSHI",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Cafe Korvari",
+"restaurant_subtitle": "Itse tehtyjä korvapuusteja ja tuoretta kahvia",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Rosa's Pizzeria",
+"restaurant_subtitle": "Herkullista pizzaa",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Snygg Restaurant & Cafe",
+"restaurant_subtitle": "Herkullista lounasta jokaiseen makuun!",
+"delivery_time": "20-30",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Ravintola Mango Palace",
+"restaurant_subtitle": "A new Nepali restaurant in Hakaniemi, Helsinki!",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Chinaboss Jätkäsaari",
+"restaurant_subtitle": "Authentic Chinese",
+"delivery_time": "20-30",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "La Sirena",
+"restaurant_subtitle": "Herkulliset pizzat, leikkeet ja pastat",
+"delivery_time": "20-30",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Fazer Cafe Kaisaniemi",
+"restaurant_subtitle": "Moderni klassinen kahvila",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Phloopy's Creperie",
+"restaurant_subtitle": "Herkulliset suolaiset ja makeat letut",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Tetto's Grilli",
+"restaurant_subtitle": "Grilliherkut jokaisen makuun!",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Cafferino Oba",
+"restaurant_subtitle": "Breakfast, salads and lunch with a Mediterranean twist",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Caffé Ritazza",
+"restaurant_subtitle": "The art of great coffee - made fresh, made to travel.",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Pizza Cook",
+"restaurant_subtitle": "Maukkaat pizzat, kebabit ja vegaaniset annokset!",
+"delivery_time": "30-40",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Yemeni Ravintola Herttoniemi",
+"restaurant_subtitle": "Jemeniläisiä herkkuja",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Shubha Kamana",
+"restaurant_subtitle": "Monimuotoisia makuelämyksiä.",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Better Italian Food Herttoniemi",
+"restaurant_subtitle": "Parempaa italialaista ruokaa läheltä",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "La Mardino's Pizzeria",
+"restaurant_subtitle": "Herkulliset pizzat, kebabit ja mezet",
+"delivery_time": "20-30",
+"delivery_fee": "€3.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Baba's House",
+"restaurant_subtitle": "Herkullista ruokaa",
+"delivery_time": "20-30",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Lauttasaaren Herkku",
+"restaurant_subtitle": "Raikkaat vietnamilaiset maut",
+"delivery_time": "20-30",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Solo Pizza & Wine",
+"restaurant_subtitle": "Neapolitan Pizza",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Arabian Pizzeria",
+"restaurant_subtitle": "Herkulliset pizzat ja kebabit",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Relove Töölö",
+"restaurant_subtitle": "Puhdasta ja kotimaista lähiruokaa",
+"delivery_time": "30-40",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Better Chinese Food Vallila",
+"restaurant_subtitle": "Parempaa kiinalaista ruokaa läheltä",
+"delivery_time": "20-30",
+"delivery_fee": "€5.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Ho Khao",
+"restaurant_subtitle": "Thai fusion food",
+"delivery_time": "20-30",
+"delivery_fee": "€2.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Better Sushi Kallio",
+"restaurant_subtitle": "Parempaa sushia läheltä",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+},
+{
+"restaurant_name": "Slice Guy Hietsu",
+"restaurant_subtitle": "Slice, Slice Baby!",
+"delivery_time": "20-30",
+"delivery_fee": "€4.99",
+"scraping_timestamp": "2023-05-02 09:51:10.296279",
+"scraping_location": "Meritullinkatu 10",
+"scraping_country": "Finland"
+}
+]
