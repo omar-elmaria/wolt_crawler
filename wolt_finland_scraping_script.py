@@ -130,6 +130,7 @@ for idx, res in enumerate(restaurants_web_elements):
     restaurant_name = handle_no_such_element_errors(driver=res, selector=".//h3")
     restaurant_subtitle = handle_no_such_element_errors(driver=res, selector=".//h3/following-sibling::p")
     delivery_time = handle_no_such_element_errors(driver=res, selector=".//h3/../following-sibling::div/div/div[1]")
+    # The DF selectors could also be ".//span[@class='sc-537ac15b-33 sc-537ac15b-34 kbEjXr hiizbc'] | .//span[@class='sc-537ac15b-33 sc-537ac15b-34 kbEjXr cuzoCA']"
     delivery_fee = handle_no_such_element_errors(driver=res, selector=".//span[@class='sc-3533de9d-32 sc-3533de9d-33 gdkIjN jTrqRs'] | .//span[@class='sc-3533de9d-32 sc-3533de9d-33 gdkIjN hsIkPU']")
 
     output_dict = {
