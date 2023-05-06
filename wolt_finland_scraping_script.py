@@ -71,6 +71,7 @@ driver.find_element(by=By.XPATH, value="//button[@data-localization-key='gdpr-co
 logging.info("Click on the 'Delivery to' button")
 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//div[@data-projection-id='2']/button")))
 driver.find_element(by=By.XPATH, value="//div[@data-projection-id='2']/button").click()
+# driver.execute_script("document.getElementsByClassName('sc-4ed1b0a0-5 gUqbJK')[0].click();") # Possible alternative to the previous command
 
 # Take a screenshot
 image = ss.full_Screenshot(driver, save_path=r'.' , image_name='name.png')
